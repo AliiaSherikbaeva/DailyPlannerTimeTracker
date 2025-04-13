@@ -31,7 +31,7 @@ A web application that allows users to plan their day and track how much time is
 ```bash
 git clone https://github.com/our-team/DailyPlannerTimeTracker.git
 cd DailyPlannerTimeTracker
-2. Setup Backend
+### 2. Setup Backend
 bash
 
 cd backend
@@ -47,16 +47,15 @@ npm install
 npm start
 Make sure you have Node.js and npm installed.
 
-📁 Project Structure
+### 📁 Project Structure
 bash
-Копировать
-Редактировать
+
 📦 DailyPlannerTimeTracker/
 ├── frontend/      # React frontend code
 ├── backend/       # Express backend API
 ├── docs/          # Project documentation
 └── README.md
-🧠 Team
+### 🧠 Team
 👩‍💻 Aliia Sherikbaeva – Frontend
 
 👨‍💻 Munyashadzashe Mutsambiwa – Backend
